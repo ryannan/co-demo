@@ -1,0 +1,14 @@
+{
+  "name": "co-demo",
+  "version": "1.0.0",
+  "description": "co farmework principle",
+  "main": "readFile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "thunkify": "^2.1.2"
+  }
+}
